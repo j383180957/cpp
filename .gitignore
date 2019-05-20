@@ -1,0 +1,7 @@
+## not tracking files as fallow
+*.o
+*.txt
+*.log
+*.lib
+*.a
+*.so
